@@ -1,1 +1,1 @@
-# DevOps Copilot Lab 2
+Project status: Version B
